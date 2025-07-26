@@ -43,8 +43,6 @@ Design Responsivo: A planilha se ajusta para preencher a tela inteira do navegad
 Estilo Limpo e Moderno: Com um esquema de cores em tons de azul claro, linhas de grade escuras e texto em negrito para melhor legibilidade.
 
 # Como Usar
-É muito simples começar a usar sua planilha:
-
 Abra o index.html: Simplesmente abra o arquivo index.html em qualquer navegador web (Chrome, Firefox, Edge, Safari, etc.). Não é necessário nenhum servidor web.
 
 Digite em qualquer Célula: Clique em qualquer célula (os quadrados brancos) e comece a digitar.
