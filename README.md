@@ -77,3 +77,5 @@ script.js: Contém toda a lógica JavaScript, incluindo as funções de avaliaç
 style.css: Define a aparência visual da planilha, como cores, espaçamentos, fontes e o layout da grade.
 
 Sinta-se à vontade para explorar o código desta planilha interativa!
+
+Link: https://mayk-lucas.github.io/Planilha_Javascript/
